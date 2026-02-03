@@ -39,8 +39,8 @@ https://alexandralheureuxece.github.io/lab-1-sososarra/
 ## LLM Tool Disclosure
 
 This project was developed using LLM-assisted coding.
-LLM Tool Used:
-ChatGPT
-How it was used:
-ChatGPT was used to generate the initial Tic-Tac-Toe implementation, refine game logic and status feedback, enhance visual UI elements, and iteratively improve the application based on testing and evaluation.
+\nLLM Tool Used:
+\nChatGPT
+\n How it was used:
+\nChatGPT was used to generate the initial Tic-Tac-Toe implementation, refine game logic and status feedback, enhance visual UI elements, and iteratively improve the application based on testing and evaluation.
 
